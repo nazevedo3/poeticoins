@@ -1,6 +1,6 @@
-defmodule Poetcoins.Exchanges.CoinbaseClient do
+defmodule Poeticoins.Exchanges.CoinbaseClient do
   use GenServer
-  alias Poetcoins.{Trade, Product}
+  alias Poeticoins.{Trade, Product}
   @exchange_name "coinbase"
 
   def start_link(currency_pairs, options \\[]) do
