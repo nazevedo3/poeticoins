@@ -1,1 +1,1 @@
-alias Poetcoins.{Trade, Product}
+alias Poeticoins.{Trade, Product}

@@ -1,4 +1,4 @@
-defmodule Poetcoins.Product do
+defmodule Poeticoins.Product do
   @type t :: %__MODULE__{
     exchange_name: String.t(),
     currency_pair: String.t()

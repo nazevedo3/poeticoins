@@ -1,4 +1,4 @@
-defmodule Poetcoins.Trade do
+defmodule Poeticoins.Trade do
   alias Poeticoins.Product
   @type t :: %__MODULE__{
     product: Product.t(),
